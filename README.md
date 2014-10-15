@@ -7,14 +7,19 @@ assim que estiver criarei uma pasta chamada "Banco de Dados" no projeto e adicon
 O projeto Inicialmente está dividido em 4 Módulos,  
 
 0-Base
-1-Basicos	
+
+1-Basicos
+
 2-Estoque
-3-Vendas			
+
+3-Vendas
+
 4-Relatórios
 
 Com o Tempo o Numero de Modulos deve aumentar assim como a quantidade de telas em cada um, com o tempo irei atualizando esse arquivo.
 
 -------------MODULO--------------
+
 0-Base
 
 Telas
@@ -22,6 +27,7 @@ Telas
 1-Tela principal do Projeto onde fica o menu que abre todas as outras telas.
 
 -------------MODULO--------------
+
 1-Basicos			
 			
 Telas			
@@ -30,6 +36,7 @@ Telas
 2-Cadastro de Pessoas			
 
 -------------MODULO--------------
+
 2-Estoque			
 			
 Telas			
@@ -39,6 +46,7 @@ Telas
 3-Consulta de Estoque			
 
 -------------MODULO--------------
+
 3-Vendas			
 			
 Telas			
@@ -46,6 +54,7 @@ Telas
 1-Pedidos			
 
 -------------MODULO--------------
+
 4-Relatórios			
 			
 Telas			
