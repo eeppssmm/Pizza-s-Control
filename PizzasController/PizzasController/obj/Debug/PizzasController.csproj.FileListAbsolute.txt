@@ -1,0 +1,8 @@
+c:\users\edilson\documents\visual studio 2013\Projects\PizzasController\PizzasController\bin\Debug\PizzasController.exe.config
+c:\users\edilson\documents\visual studio 2013\Projects\PizzasController\PizzasController\bin\Debug\PizzasController.exe
+c:\users\edilson\documents\visual studio 2013\Projects\PizzasController\PizzasController\bin\Debug\PizzasController.pdb
+c:\users\edilson\documents\visual studio 2013\Projects\PizzasController\PizzasController\obj\Debug\PizzasController.FMBASE.resources
+c:\users\edilson\documents\visual studio 2013\Projects\PizzasController\PizzasController\obj\Debug\PizzasController.Properties.Resources.resources
+c:\users\edilson\documents\visual studio 2013\Projects\PizzasController\PizzasController\obj\Debug\PizzasController.csproj.GenerateResource.Cache
+c:\users\edilson\documents\visual studio 2013\Projects\PizzasController\PizzasController\obj\Debug\PizzasController.exe
+c:\users\edilson\documents\visual studio 2013\Projects\PizzasController\PizzasController\obj\Debug\PizzasController.pdb
