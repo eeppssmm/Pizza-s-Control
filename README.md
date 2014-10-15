@@ -4,7 +4,7 @@ Pizza-s-Control
 Software para Controle de uma Lanchonete usando C# e MySqL, A parte de Banco de dados ainda não está concluida
 assim que estiver criarei uma pasta chamada "Banco de Dados" no projeto e adiconarei os Script's SQL.
 
-O projeto Inicialmente está dividido em 4 Módulos,  
+O projeto Inicialmente está dividido em 5 Módulos,  
 
 0-Base
 
